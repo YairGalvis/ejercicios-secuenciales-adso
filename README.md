@@ -15,4 +15,7 @@ en un compilador en línea o en Visual Studio.
 | No | Ejercicio | Estado |
 |----|-----------|--------|
 | 01 | Intercambio con variable auxiliar | ✅ |
-| 02 | Intercambio sin variable auxiliar | ⏳ |
+
+| 02 | Intercambio sin variable auxiliar | ✅ |
+| 03 | Promedio Ponderado | ✅ |
+| 04 | Intercambio con variable auxiliar | ⏳ |
